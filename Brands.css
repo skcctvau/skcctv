@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brands & Products - Dahua, Hikvision, Hilook | SKCCTV</title>
+    <meta name="description" content="Explore the high-quality CCTV and security products from our official partners: Dahua, Hikvision, and Hilook. We only install genuine, Australian-stocked products.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <a href="index.html">SKCCTV</a>
+                <p>Singh and Kaur CCTV</p>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="packages.html">Packages</a></li>
+                    <li><a href="brands.html" class="active">Brands</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                </ul>
+            </nav>
+            <div class="contact-info-header">
+                <a href="tel:1300476410"><i class="fas fa-phone-alt"></i> 1300 476 410</a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section id="page-hero" class="brands-hero">
+            <div class="container">
+                <h1>Our Premium Brand Partners</h1>
+            </div>
+        </section>
+
+        <section id="dahua-section" class="brand-section bg-light">
+            <div class="container content-with-image reversed">
+                <div class="text-content">
+                    <img src="images/dahua-logo-color.png" alt="Dahua Technology Logo" class="brand-logo-big">
+                    <h2>Dahua Technology: A Global Leader in Video Surveillance</h2>
+                    <p>Dahua is a world-renowned leader in the security and surveillance industry, known for its advanced technology and robust product range. As an official partner, SKCCTV provides and installs a wide array of Dahua products, from high-resolution cameras to sophisticated network video recorders (NVRs) and AI-powered solutions.</p>
+                    <p>Popular Dahua products we install include:</p>
+                    <ul>
+                        <li><i class="fas fa-circle"></i> **TiOC (Three-in-One Camera):** Features full-color vision, active deterrence, and AI for smart detection.</li>
+                        <li><i class="fas fa-circle"></i> **WizSense AI:** Advanced AI features for human and vehicle detection, reducing false alarms.</li>
+                        <li><i class="fas fa-circle"></i> **HD-CVI Cameras:** High-definition video transmission over coaxial cable, perfect for upgrades.</li>
+                        <li><i class="fas fa-circle"></i> **4K Ultra HD Cameras:** Unparalleled image quality for capturing fine details.</li>
+                    </ul>
+                </div>
+                <div class="image-content">
+                    <img src="images/dahua-products.jpg" alt="Dahua CCTV cameras and NVRs">
+                </div>
+            </div>
+        </section>
+
+        <section id="hikvision-section" class="brand-section">
+            <div class="container content-with-image">
+                <div class="image-content">
+                    <img src="images/hikvision-products.jpg" alt="Hikvision CCTV cameras and doorbells">
+                </div>
+                <div class="text-content">
+                    <img src="images/hikvision-logo-color.png" alt="Hikvision Logo" class="brand-logo-big">
+                    <h2>Hikvision: Innovative & Reliable Security Systems</h2>
+                    <p>Hikvision is another global giant in security technology, offering a vast portfolio of products and solutions. Our partnership with Hikvision allows us to provide our clients with cutting-edge technology that is both reliable and user-friendly. Hikvision's commitment to innovation means you get the best in surveillance.</p>
+                    <p>Key Hikvision products and technologies we offer:</p>
+                    <ul>
+                        <li><i class="fas fa-circle"></i> **AcuSense Technology:** Smart motion detection that filters out false alarms caused by animals or falling leaves.</li>
+                        <li><i class="fas fa-circle"></i> **ColorVu Technology:** Produces vivid, full-color images even in ultra-low light conditions.</li>
+                        <li><i class="fas fa-circle"></i> **DS Series NVRs:** Powerful and stable network video recorders for seamless recording and playback.</li>
+                        <li><i class="fas fa-circle"></i> **Video Intercoms:** Integrated solutions for secure door entry and communication.</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="hilook-section" class="brand-section bg-light">
+            <div class="container content-with-image reversed">
+                <div class="text-content">
+                    <img src="images/hilook-logo-color.png" alt="Hilook by Hikvision Logo" class="brand-logo-big">
+                    <h2>Hilook: Professional Quality, Exceptional Value</h2>
+                    <p>Hilook, a sub-brand of Hikvision, provides professional-grade security solutions at an incredibly competitive price point. It's the perfect choice for clients who want the reliability and quality of a major brand without the premium cost. Hilook offers a comprehensive range of cameras, NVRs, and accessories.</p>
+                    <p>Hilook is a top choice for:</p>
+                    <ul>
+                        <li><i class="fas fa-circle"></i> **Budget-Conscious Homeowners:** High-quality surveillance at an accessible price.</li>
+                        <li><i class="fas fa-circle"></i> **Small to Medium Businesses:** A scalable and effective security solution.</li>
+                        <li><i class="fas fa-circle"></i> **Reliable Performance:** Backed by Hikvision's technology and expertise.</li>
+                    </ul>
+                </div>
+                <div class="image-content">
+                    <img src="images/hilook-products.jpg" alt="Hilook CCTV cameras and NVRs">
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        </footer>
+    <script src="script.js"></script>
+</body>
+</html>
